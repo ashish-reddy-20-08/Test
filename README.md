@@ -19,39 +19,72 @@ Outliers are extreme values that deviate from other observations on data , they 
 
  
 Most common causes of outliers on a data set:
+
 •	Data entry errors (human errors)
+
 •	Measurement errors (instrument errors)
+
 •	Experimental errors (data extraction or experiment planning/executing errors)
+
 •	Intentional (dummy outliers made to test detection methods)
+
 •	Data processing errors (data manipulation or data set unintended mutations)
+
 •	Sampling errors (extracting or mixing data from wrong or various sources)
+
 •	Natural (not an error, novelties in data)
+
 In the process of producing, collecting, processing and analyzing data, outliers can come from many sources and hide in many dimensions. Those that are not a product of an error are called novelties.
+
 Detecting outliers is of major importance for almost any quantitative discipline (ie: Physics, Economy, Finance, Machine Learning, Cyber Security). In machine learning and in any quantitative discipline the quality of data is as important as the quality of a prediction or classification model.
-When trying to detect outliers in a dataset it is very important to keep in mind the context and try to answer the question: “¿Why do I want to detect outliers?” The meaning of your findings will be dictated by the context.
+
+
 Also, when starting an outlier detection quest you have to answer two important questions about your dataset:
+
 •	Which and how many features am I taking into account to detect outliers ? (univariate / multivariate)
+
 •	Can I assume a distribution(s) of values for my selected features? (parametric / non-parametric)
-Some of the most popular methods for outlier detection are:
+
+## Some of the most popular methods for outlier detection are:
+
 •	Z-Score or Extreme Value Analysis (parametric)
+
 •	Probabilistic and Statistical Modeling (parametric)
+
 •	Linear Regression Models (PCA, LMS)
+
 •	Proximity Based Models (non-parametric)
+
 •	Information Theory Models
+
 •	High Dimensional Outlier Detection Methods (high dimensional sparse data)
-Z-Score
-The z-score or standard score of an observation is a metric that indicates how many standard deviations a data point is from the sample’s mean, assuming a gaussian distribution. This makes z-score a parametric method. Very frequently data points are not to described by a gaussian distribution, this problem can be solved by applying transformations to data ie: scaling it.
+
+## Z-Score
+
+- The z-score or standard score of an observation is a metric that indicates how many standard deviations a data point is from the sample’s mean, assuming a gaussian distribution. 
+- This makes z-score a parametric method. Very frequently data points are not to described by a gaussian distribution, this problem can be solved by applying transformations to data ie: scaling it.
+
 Some Python libraries like Scipy and Sci-kit Learn have easy to use functions and classes for a easy implementation along with Pandas and Numpy.
+
 After making the appropriate transformations to the selected feature space of the dataset, the z-score of any data point can be calculated with the following expression:
  
+ ![image](https://user-images.githubusercontent.com/63282184/137184172-ce8d409e-a0af-4b1e-b09e-f35b50def48f.png)
+
+ 
 When computing the z-score for each sample on the data set a threshold must be specified. Some good ‘thumb-rule’ thresholds can be: 2.5, 3, 3.5 or more standard deviations.
+
+ ![image](https://user-images.githubusercontent.com/63282184/137184258-e878f9c6-a911-4145-8ec0-49d3ebad98e2.png)
 
  
 By ‘tagging’ or removing the data points that lay beyond a given threshold we are classifying data into outliers and not outliers
 
+ ![image](https://user-images.githubusercontent.com/63282184/137184276-8b6789c3-493c-4f76-bd3d-951eaad6def4.png)
+
  
 Z-score is a simple, yet powerful method to get rid of outliers in data if you are dealing with parametric distributions in a low dimensional feature space. For nonparametric problems Dbscan and Isolation Forests can be good solutions.
-Dbscan (Density Based Spatial Clustering of Applications with Noise)
+
+## Dbscan (Density Based Spatial Clustering of Applications with Noise)
+
 In machine learning and data analytics clustering methods are useful tools that help us visualize and understand data better. Relationships between features, trends and populations in a data set can be graphically represented via clustering methods like dbscan, and can also be applied to detect outliers in nonparametric distributions in many dimensions.
 Dbscan is a density based clustering algorithm, it is focused on finding neighbors by density (MinPts) on an ‘n-dimensional sphere’ with radius ɛ. A cluster can be defined as the maximal set of ‘density connected points’ in the feature space.
 Dbscan then defines different classes of points:
