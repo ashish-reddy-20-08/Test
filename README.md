@@ -19,6 +19,8 @@ For any Data Science project, having historical data is a key essence. This data
 
 - Often, we are not aware of optimal values for hyperparameters which would generate the best model output. So, what we tell the model is to explore and select the optimal model architecture automatically. This selection procedure for hyperparameter is known as Hyperparameter Tuning.
 
+![image](https://user-images.githubusercontent.com/63282184/139520085-31e8b727-13bf-40d6-9f0d-a449b74d5e67.png)
+
 
 **Now, the question arises why we need this? How would this help in my model? What will happen if we skip this step? The list is endless. So, here we would discuss what questions this hyperparameter tuning will answer for us, and then all the above questions will automatically get answered.**
 
