@@ -194,3 +194,10 @@ df2d = pd.DataFrame(Data)
 ![image](https://user-images.githubusercontent.com/63282184/139567998-d6c87a71-8518-497a-8f38-1e14f27f2167.png)
 
 DataFrame with 2d ndarray
+
+
+## Advantages of Using Pandas
+
+- It can present data in a way that is suitable for data analysis via its Series and DataFrame data structures. 
+- The package contains multiple methods for convenient data filtering. 
+- Pandas has a variety of utilities to perform Input/Output operations in a seamless manner.
