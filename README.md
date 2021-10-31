@@ -201,3 +201,11 @@ DataFrame with 2d ndarray
 - It can present data in a way that is suitable for data analysis via its Series and DataFrame data structures. 
 - The package contains multiple methods for convenient data filtering. 
 - Pandas has a variety of utilities to perform Input/Output operations in a seamless manner.
+
+
+## Cons of the Pandas Library:
+
+1. A complex syntax which is not always in line with Python
+2. Learning curve
+3. Poor documentation
+4. Poor 3D matrix compatibility
