@@ -1,6 +1,6 @@
 # Applications of Machine learning
 
-## AUDIO LINK : [Applications of Machine learning]()
+## AUDIO LINK : [Applications of Machine learning](https://drive.google.com/file/d/1NnHBWO3ueJrIBQJGwuZvnJjgi2FWA9Zi/view?usp=sharing)
 
 
 Machine learning is a buzzword for today's technology, and it is growing very rapidly day by day. We are using machine learning in our daily life even without knowing it such as Google Maps, Google assistant, Alexa, etc. Below are some most trending real-world applications of Machine Learning:
