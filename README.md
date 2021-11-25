@@ -1,6 +1,6 @@
 # Bagging and Boosting
 
-## Video Link: [Bagging and Boosting]()
+## Video Link: [Bagging and Boosting](https://drive.google.com/file/d/17nIfQL9MEU0WBc2RUYopjQ3Rh7zY5rek/view?usp=sharing)
 
 - As we know, Ensemble learning helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model.
 -  Basic idea is to learn a set of classifiers (experts) and to allow them to vote. Bagging and Boosting are two types of Ensemble Learning. These two decrease the variance of a single estimate as they combine several estimates from different models.
