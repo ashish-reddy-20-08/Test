@@ -1,6 +1,6 @@
 # Introduction to Pytorch
 
-## Audio Link : [Introduction to Pytorch]()
+## Audio Link : [Introduction to Pytorch](https://drive.google.com/file/d/1Z1Eo7HRcMIJk0vynulvV5-y7ACLL7wGD/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/63282184/143443554-5f2e6177-e4ad-4b89-b33e-22aecd9d0806.png)
 
