@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent
 
-## Video Link: [Stochastic Gradient Descent]()
+## Video Link: [Stochastic Gradient Descent](https://drive.google.com/file/d/1sAwmYjKAYjfeRUJCVcoeqA4sn29lc0oP/view?usp=sharing)
 
 ### Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable).
 
