@@ -1,80 +1,69 @@
-# Applications of Machine learning
+# Bagging and Boosting
 
-## AUDIO LINK : [Applications of Machine learning](https://drive.google.com/file/d/1NnHBWO3ueJrIBQJGwuZvnJjgi2FWA9Zi/view?usp=sharing)
+## Video Link: [Bagging and Boosting]()
+
+- As we know, Ensemble learning helps improve machine learning results by combining several models. This approach allows the production of better predictive performance compared to a single model.
+-  Basic idea is to learn a set of classifiers (experts) and to allow them to vote. Bagging and Boosting are two types of Ensemble Learning. These two decrease the variance of a single estimate as they combine several estimates from different models.
+-   So the result may be a model with higher stability. Let’s understand these two terms in a glimpse.
+
+**Bagging:** It is a homogeneous weak learners’ model that learns from each other independently in parallel and combines them for determining the model average.
+
+**Boosting:** It is also a homogeneous weak learners’ model but works differently from Bagging. In this model, learners learn sequentially and adaptively to improve model predictions of a learning algorithm.
+
+## Bagging
+Bootstrap Aggregating, also knows as bagging, is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. It decreases the variance and helps to avoid overfitting. It is usually applied to decision tree methods. Bagging is a special case of the model averaging approach. 
+
+### Implementation Steps of Bagging
+
+```
+Step 1: Multiple subsets are created from the original data set with equal tuples, selecting observations with replacement.
+Step 2: A base model is created on each of these subsets.
+Step 3: Each model is learned in parallel from each training set and independent of each other.
+Step 4: The final predictions are determined by combining the predictions from all the models.
+
+```
+
+![image](https://user-images.githubusercontent.com/63282184/143377777-62bbe2a4-de13-4123-8edc-330a3285e6a5.png)
+
+### Example of Bagging
+
+The Random Forest model uses Bagging, where decision tree models with higher variance are present. It makes random feature selection to grow trees. Several random trees make a Random Forest.
+
+## Boosting
+Boosting is an ensemble modeling technique that attempts to build a strong classifier from the number of weak classifiers. It is done by building a model by using weak models in series. Firstly, a model is built from the training data. Then the second model is built which tries to correct the errors present in the first model. This procedure is continued and models are added until either the complete training data set is predicted correctly or the maximum number of models are added.
 
 
-Machine learning is a buzzword for today's technology, and it is growing very rapidly day by day. We are using machine learning in our daily life even without knowing it such as Google Maps, Google assistant, Alexa, etc. Below are some most trending real-world applications of Machine Learning:
+```
+Algorithm:
 
-![image](https://user-images.githubusercontent.com/63282184/142976553-5f38d757-99eb-4bfc-b5db-14d7a7f5ba30.png)
+Initialise the dataset and assign equal weight to each of the data point.
+Provide this as input to the model and identify the wrongly classified data points.
+Increase the weight of the wrongly classified data points.
+if (got required results)
+  Goto step 5
+else
+  Goto step 2
+End
+
+```
+
+![image](https://user-images.githubusercontent.com/63282184/143377873-642f6dd9-9346-48da-9380-9884abcd4e5b.png)
 
 
-## 1. Image Recognition:
 
-Image recognition is one of the most common applications of machine learning. It is used to identify objects, persons, places, digital images, etc. The popular use case of image recognition and face detection is, Automatic friend tagging suggestion:
+## Similarities Between Bagging and Boosting
+Bagging and Boosting, both being the commonly used methods, have a universal similarity of being classified as ensemble methods. Here we will explain the similarities between them.
 
-Facebook provides us a feature of auto friend tagging suggestion. Whenever we upload a photo with our Facebook friends, then we automatically get a tagging suggestion with name, and the technology behind this is machine learning's face detection and recognition algorithm.
+- Both are ensemble methods to get N learners from 1 learner.
+- Both generate several training data sets by random sampling.
+- Both make the final decision by averaging the N learners (or taking the majority of them i.e Majority Voting).
+- Both are good at reducing variance and provide higher stability.
 
-It is based on the Facebook project named "Deep Face," which is responsible for face recognition and person identification in the picture.
+## Differences 
 
-## 2. Speech Recognition
-While using Google, we get an option of "Search by voice," it comes under speech recognition, and it's a popular application of machine learning.
+![image](https://user-images.githubusercontent.com/63282184/143377958-d9ea9bc8-1d92-499c-b958-e2660bdb81ee.png)
 
-Speech recognition is a process of converting voice instructions into text, and it is also known as "Speech to text", or "Computer speech recognition." At present, machine learning algorithms are widely used by various applications of speech recognition. Google assistant, Siri, Cortana, and Alexa are using speech recognition technology to follow the voice instructions.
+## Conclusive Summary
+Now that we have thoroughly described the concepts of Bagging and Boosting, we have arrived at the end of the article and can conclude how both are equally important in Data Science and where to be applied in a model depends on the sets of data given, their simulation and the given circumstances. Thus, on the one hand, in a Random Forest model, Bagging is used, and the AdaBoost model implies the Boosting algorithm.
 
-## 3. Traffic prediction:
-If we want to visit a new place, we take help of Google Maps, which shows us the correct path with the shortest route and predicts the traffic conditions.
-
-It predicts the traffic conditions such as whether traffic is cleared, slow-moving, or heavily congested with the help of two ways:
-
-- Real Time location of the vehicle form Google Map app and sensors
-- Average time has taken on past days at the same time.
-Everyone who is using Google Map is helping this app to make it better. It takes information from the user and sends back to its database to improve the performance.
-
-## 4. Product recommendations:
-Machine learning is widely used by various e-commerce and entertainment companies such as Amazon, Netflix, etc., for product recommendation to the user. Whenever we search for some product on Amazon, then we started getting an advertisement for the same product while internet surfing on the same browser and this is because of machine learning.
-
-Google understands the user interest using various machine learning algorithms and suggests the product as per customer interest.
-
-As similar, when we use Netflix, we find some recommendations for entertainment series, movies, etc., and this is also done with the help of machine learning.
-
-## 5. Self-driving cars:
-
-One of the most exciting applications of machine learning is self-driving cars. Machine learning plays a significant role in self-driving cars. Tesla, the most popular car manufacturing company is working on self-driving car. It is using unsupervised learning method to train the car models to detect people and objects while driving.
-
-## 6. Email Spam and Malware Filtering:
-Whenever we receive a new email, it is filtered automatically as important, normal, and spam. We always receive an important mail in our inbox with the important symbol and spam emails in our spam box, and the technology behind this is Machine learning. Below are some spam filters used by Gmail:
-
-- Content Filter
-- Header filter
-- General blacklists filter
-- Rules-based filters
-- Permission filters
-
-Some machine learning algorithms such as Multi-Layer Perceptron, Decision tree, and Naïve Bayes classifier are used for email spam filtering and malware detection.
-
-## 7. Virtual Personal Assistant:
-We have various virtual personal assistants such as Google assistant, Alexa, Cortana, Siri. As the name suggests, they help us in finding the information using our voice instruction. These assistants can help us in various ways just by our voice instructions such as Play music, call someone, Open an email, Scheduling an appointment, etc.
-
-These virtual assistants use machine learning algorithms as an important part.
-
-These assistant record our voice instructions, send it over the server on a cloud, and decode it using ML algorithms and act accordingly.
-
-## 8. Online Fraud Detection:
-Machine learning is making our online transaction safe and secure by detecting fraud transaction. Whenever we perform some online transaction, there may be various ways that a fraudulent transaction can take place such as fake accounts, fake ids, and steal money in the middle of a transaction. So to detect this, Feed Forward Neural network helps us by checking whether it is a genuine transaction or a fraud transaction.
-
-For each genuine transaction, the output is converted into some hash values, and these values become the input for the next round. For each genuine transaction, there is a specific pattern which gets change for the fraud transaction hence, it detects it and makes our online transactions more secure.
-
-## 9. Stock Market trading:
-
-Machine learning is widely used in stock market trading. In the stock market, there is always a risk of up and downs in shares, so for this machine learning's long short term memory neural network is used for the prediction of stock market trends.
-
-## 10. Medical Diagnosis:
-In medical science, machine learning is used for diseases diagnoses. With this, medical technology is growing very fast and able to build 3D models that can predict the exact position of lesions in the brain.
-
-It helps in finding brain tumors and other brain-related diseases easily.
-
-## 11. Automatic Language Translation:
-
-Nowadays, if we visit a new place and we are not aware of the language then it is not a problem at all, as for this also machine learning helps us by converting the text into our known languages. Google's GNMT (Google Neural Machine Translation) provide this feature, which is a Neural Machine Learning that translates the text into our familiar language, and it called as automatic translation.
-
-The technology behind the automatic translation is a sequence to sequence learning algorithm, which is used with image recognition and translates the text from one language to another language.
+A machine learning model’s performance is calculated by comparing its training accuracy with validation accuracy, which is achieved by splitting the data into two sets: the training set and validation set. The training set is used to train the model, and the validation set is used for evaluation. 
