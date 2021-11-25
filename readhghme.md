@@ -1,6 +1,6 @@
 # Introduction to Keras
 
-## Video Link: [Introduction to Keras]()
+## Video Link: [Introduction to Keras](https://drive.google.com/file/d/1WZ91xo7FywwGAsbvwF8SuV9PgOHYWwmG/view?usp=sharing)
 
 - Deep learning is one of the major subfield of machine learning framework. Machine learning is the study of design of algorithms, inspired from the model of human brain. 
 - Deep learning is becoming more popular in data science fields like robotics, artificial intelligence(AI), audio & video recognition and image recognition. Artificial neural network is the core of deep learning methodologies. 
