@@ -7,6 +7,8 @@
 - The concept of optical flow was introduced by the American psychologist James J. Gibson in the 1940s to describe the visual stimulus provided to animals moving through the world.
 - The term optical flow is also used by roboticists, encompassing related techniques from image processing and control of navigation including motion detection, object segmentation, time-to-contact information, focus of expansion calculations, luminance, motion compensated encoding, and stereo disparity measurement.
 
+![image](https://user-images.githubusercontent.com/63282184/143472254-04a1d581-cfd1-4844-bfcf-fa7d63be9083.png)
+
 
 ## Uses
 
