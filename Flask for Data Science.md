@@ -51,3 +51,21 @@ if __name__ == '__main__':
    app.run(debug = True)
   
 ```
+   
+## Converters & Description
+   
+![image](https://user-images.githubusercontent.com/63282184/143590914-44d7bd7a-df5a-4c2f-b50e-d368cb4f2eae.png)
+
+## Flask – URL Building
+The url_for() function is very useful for dynamically building a URL for a specific function. The function accepts the name of a function as first argument, and one or more keyword arguments, each corresponding to the variable part of URL.
+   
+## Flask – HTTP methods
+   
+   ![image](https://user-images.githubusercontent.com/63282184/143591014-e606716f-3e2c-44ec-9c32-12ebecec998c.png)
+
+   
+## Advantages of the Flask framework
+Flask is considered the best framework for light web application serving, it is a lightweight framework and can also be useful to the developer if he or she chooses a web interface to the default system based UI.
+
+## Disadvantages of flask
+As it is easy for an amateur or a beginner to learn and create a web development with flask framework, in the same way, a bad developer will write worse code, or in the case of a young developer in training, it will be easier for him to use low-quality code creating a "bad web application".
