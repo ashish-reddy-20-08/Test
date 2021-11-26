@@ -1,6 +1,6 @@
 # Regularization in Regression
 
-## Video Link : [Regularization in Regression]()
+## Video Link : [Regularization in Regression](https://drive.google.com/file/d/1ZX6F1YzlG51ioNqW0w628ZBVJ55aASuO/view?usp=sharing)
 
 ## Regression: 
 
