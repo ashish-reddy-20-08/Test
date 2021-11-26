@@ -1,6 +1,6 @@
 #  Bayesian Regression
 
-## Video Link: [Bayesian Regression]()
+## Video Link: [Bayesian Regression](https://drive.google.com/file/d/1PclHywk-m3hGm25Ip7b1FmsWW1P6BPTS/view?usp=sharing)
 
 - Regression is a Machine Learning task to predict continuous values (real numbers), as compared to classification, that is used to predict categorical (discrete) values.
 - When you hear the word, ‘Bayesian’, you might think of Naive Bayes. However, Bayesian principles can also be used to perform regression. 
