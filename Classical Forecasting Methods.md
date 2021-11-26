@@ -127,3 +127,8 @@ yhat = model_fit.predict(len(data), len(data))
 print(yhat)
 
 ```
+
+## Advantages and conclusion:
+-  Time Series Analysis Helps You Identify Patterns
+- Time Series Analysis Creates the Opportunity to Clean Your Data
+- Time Series Forecasting Can Predict the Future
