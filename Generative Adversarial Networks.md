@@ -52,3 +52,24 @@
 - The reason for this may be both because the first description of the technique was in the field of computer vision and used CNNs and image data, and because of the remarkable progress that has been seen in recent years using CNNs more generally to achieve state-of-the-art results on a suite of computer vision tasks such as object detection and face recognition.
 
 - Modeling image data means that the latent space, the input to the generator, provides a compressed representation of the set of images or photographs used to train the model. It also means that the generator generates new images or photographs, providing an output that can be easily viewed and assessed by developers or users of the model.
+
+## Applications
+
+- Generate Examples for Image Datasets
+- Generate Photographs of Human Faces
+- Generate Realistic Photographs
+- Generate Cartoon Characters
+- Image-to-Image Translation
+- Text-to-Image Translation
+- Semantic-Image-to-Photo Translation
+- Face Frontal View Generation
+- Generate New Human Poses
+- Photos to Emojis
+- Photograph Editing
+- Face Aging
+- Photo Blending
+- Super Resolution
+- Photo Inpainting
+- Clothing Translation
+- Video Prediction
+- 3D Object Generation
