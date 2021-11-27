@@ -1,6 +1,6 @@
 # BACK PROPAGATION ALGORITHM
 
-## Video Link: [BACK PROPAGATION ALGORITHM]()
+## Video Link: [BACK PROPAGATION ALGORITHM](https://drive.google.com/file/d/113LBgvnUC_lm1J6L4GRXXIaZjnLqwxkh/view?usp=sharing)
 
 
 
