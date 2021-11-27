@@ -84,3 +84,5 @@ Chemists can use GNNs to research the graph structure of molecules or compounds.
 
 ## GNNs in other domains
 The application of GNNs is not limited to the above domains and tasks. There have been attempts to apply GNNs to a variety of problems such as program verification, program reasoning, social influence prediction, recommender systems, electrical health records modeling, brain networks, and adversarial attack prevention.
+
+
