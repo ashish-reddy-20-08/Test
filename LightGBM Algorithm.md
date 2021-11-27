@@ -1,6 +1,6 @@
 # LightGBM Algorithm
 
-## video link: [LightGBM Algorithm]()
+## video link: [LightGBM Algorithm](https://drive.google.com/file/d/1HH-r8qlXX0Ksj15Nh9I9Q-8Dv8aHxxZ_/view?usp=sharing)
 
 - LightGBM is a gradient boosting framework based on decision trees to increases the efficiency of the model and reduces memory usage. 
 
