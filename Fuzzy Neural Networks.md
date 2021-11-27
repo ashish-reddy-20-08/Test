@@ -6,6 +6,7 @@ A fuzzy neural network or neuro-fuzzy system is a learning machine that finds th
 
 ![image](https://user-images.githubusercontent.com/63282184/143688632-8063a044-b762-4a82-9479-4e6e3474694f.png)
 
+![image](https://user-images.githubusercontent.com/63282184/143688920-1323b2db-58d9-4c39-9291-17386124eafd.png)
 
 ## Combining fuzzy systems with neural networks
 
@@ -34,3 +35,5 @@ A fuzzy neural network or neuro-fuzzy system is a learning machine that finds th
 - The third layer represents the output variables.
 - The fuzzy sets are converted as (fuzzy) connection weights.
 - Some approaches also use five layers where the fuzzy sets are encoded in the units of the second and fourth layer, respectively. However, these models can be transformed into a three-layer architecture.
+
+### It is desirable for fuzzy systems to have an automatic adaption procedure which is comparable to neural networks.
