@@ -56,6 +56,12 @@ These features are easy to tune and are well-explained in the CatBoost documenta
 
 ![image](https://user-images.githubusercontent.com/63282184/143666989-2271347c-ce4a-4ad2-a66e-05ccae1d2524.png)
 
+ ## Advantages of CatBoost
+- It is said to be faster in implementation of GPU/CPU training.
+- Because it uses symmetric trees, that makes it to have a fast inference.
+- Its boosting schemes helps to reduce over fitting and improves quality of the model.
+- It supports sophisticated categorical features.
+
 ## Conclusion
 
 The CatBoost algorithm is excellent and is also dominating as the algorithm is used by many because of the features it offers, most especially handling categorical features.
