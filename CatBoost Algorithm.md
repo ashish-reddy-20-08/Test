@@ -1,6 +1,6 @@
 # CatBoost Algorithm
 
-## Video Link: [CatBoost Algorithm]()
+## Video Link: [CatBoost Algorithm](https://drive.google.com/file/d/1FuHKsm5p-TgTH72ihrS7ghtskeMoT9Z5/view?usp=sharing)
 
 CatBoost is the first Russian machine learning algorithm developed to be open source. The algorithm was developed in the year 2017 by machine learning researchers and engineers at Yandex (a technology company).
 
