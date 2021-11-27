@@ -87,7 +87,11 @@ At that time you need to stop, and that is your final weight value.
   <img width="400" height="300" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/09/Optimizer-1-768x601.png">
 </p>
 
-
+## Advantages of Backpropagation are:
+- Backpropagation is fast, simple and easy to program.
+- It has no parameters to tune apart from the numbers of input.
+- It is a flexible method as it does not require prior knowledge about the network.
+- It is a standard method that generally works well.
 
 
 
