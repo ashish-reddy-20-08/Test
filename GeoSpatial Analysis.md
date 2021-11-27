@@ -28,3 +28,12 @@
 - Application — segmented into agriculture, defense/security, energy, engineering/construction, environment-monitoring, government data analytics, healthcare, insurance, mining/manufacturing, natural resources.
 - Geography — segmented into Asia-Pacific, Europe, North America and Rest of the World (RoW). RoW includes Africa, Middle East and South America.
 
+## Geospatial Analytics Use Cases
+
+- Telecommunications
+- Military
+- Weather 
+- Urban Planning/Developmen
+- Natural Resource Exploration
+
+
