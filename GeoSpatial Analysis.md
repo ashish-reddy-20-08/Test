@@ -7,6 +7,9 @@
 - Geospatial analytics gathers, manipulates and displays geographic information system (GIS) data and imagery including GPS and satellite photographs. Geospatial data analytics rely on geographic coordinates and specific identifiers such as street address and zip code.
 -  They are used to create geographic models and data visualizations for more accurate modeling and predictions of trends.
 
+![image](https://user-images.githubusercontent.com/63282184/143688248-55551e8d-a6a6-4936-9f3c-43f428a88473.png)
+
+
 ## What is Geospatial Analytics?
 - Geospatial analytics uses data from all kinds of technology — GPS, location sensors, social media, mobile devices, satellite imagery — to build data visualizations for understanding phenomena and finding trends in complex relationships between people and places. This geo-referenced data can be applied to nearly any happening on earth. The visualizations can include maps, graphs, statistics and cartograms that show historical changes and current shifts. This can make predictions easier and more accurate.
 
