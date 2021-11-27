@@ -51,6 +51,13 @@ There are three types of points after the DBSCAN clustering is complete:
 - Worst Case: Without the use of index structure or on degenerated data (e.g. all points within a distance less than ε), the worst-case run time complexity remains O(n²).
 - Average Case: Same as best/worst case depending on data and implementation of the algorithm.
 
+## Advantages
+- Does not require a-priori specification of number of clusters.
+- Able to identify noise data while clustering.
+- DBSCAN algorithm is able to find arbitrarily size and arbitrarily shaped clusters.
+
+
+
 ## Conclusion
  
 Density-based clustering algorithms can learn clusters of arbitrary shape, and with the Level Set Tree algorithm, one can learn clusters in datasets that exhibit wide differences in density.
