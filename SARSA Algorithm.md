@@ -81,3 +81,7 @@ for episode in range(total_episodes):
 
 ## What's the advantage of an off policy algorithm?
 Some benefits of Off-Policy methods are as follows: Continuous exploration: As an agent is learning other policy then it can be used for continuing exploration while learning optimal policy. Whereas On-Policy learns suboptimal policy. Learning from Demonstration: Agent can learn from the demonstration.
+
+## Application 
+
+The SARSA learning  algorithm in RL concept is applied to the IEEE 39-buses New England power system. Results show that SARSA learning algorithm is able to provide optimal or near optimal control settings for power system under varying system conditions.
