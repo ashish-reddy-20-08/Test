@@ -1,6 +1,6 @@
 # Fuzzy Neural Networks
 
-## Video Link : [Fuzzy Neural Networks]()
+## Video Link : [Fuzzy Neural Networks](https://drive.google.com/file/d/13bzDwVjrRnIhA6zIFj1_W4wpf78bJkdu/view?usp=sharing)
 
 A fuzzy neural network or neuro-fuzzy system is a learning machine that finds the parameters of a fuzzy system (i.e., fuzzy sets, fuzzy rules) by exploiting approximation techniques from neural networks.
 
