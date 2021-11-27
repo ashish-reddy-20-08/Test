@@ -1,6 +1,6 @@
 # Graph Neural Network
 
-## Video Link: [Graph Neural Network]()
+## Video Link: [Graph Neural Network](https://drive.google.com/file/d/1hiBnRednzQCofe2FqLBM0hZnivXmM17s/view?usp=sharing)
 
 Graph Neural Networks (GNNs) are a class of deep learning methods designed to perform inference on data described by graphs. 
 
