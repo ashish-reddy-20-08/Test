@@ -1,6 +1,6 @@
 # DBSCAN Algorithm
 
-## Video link: [DBSCAN Algorithm]()
+## Video link: [DBSCAN Algorithm](https://drive.google.com/file/d/119vTdq4XffAGq6Rtk90Ey7xxLxOd-Z1t/view?usp=sharing)
 
 ## Density-Based Clustering Algorithms
  
