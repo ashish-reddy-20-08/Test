@@ -1,6 +1,6 @@
 # RANSAC Algorithm
 
-## Video Link: [RANSAC Algorithm]()
+## Video Link: [RANSAC Algorithm](https://drive.google.com/file/d/1OfnXofc04bG25xztyq1JViFjzPfdpF8X/view?usp=sharing)
 
 - Random sample consensus (RANSAC) is an iterative method to estimate parameters of a mathematical model from a set of observed data that contains outliers, when outliers are to be accorded no influence on the values of the estimates. Therefore, it also can be interpreted as an outlier detection method.
 -  It is a non-deterministic algorithm in the sense that it produces a reasonable result only with a certain probability, with this probability increasing as more iterations are allowed. The algorithm was first published by Fischler and Bolles at SRI International in 1981. They used RANSAC to solve the Location Determination Problem (LDP), where the goal is to determine the points in the space that project onto an image into a set of landmarks with known locations.
