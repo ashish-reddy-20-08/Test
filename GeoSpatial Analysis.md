@@ -1,6 +1,6 @@
 # GeoSpatial Analysis
 
-## Video Link: [GeoSpatial Analysis]()
+## Video Link: [GeoSpatial Analysis](https://drive.google.com/file/d/1Zwb7tWAQUjCm5wgoAFpAqrjR7fOAax5K/view?usp=sharing)
 
 ## Geospatial Analytics Definition
 
