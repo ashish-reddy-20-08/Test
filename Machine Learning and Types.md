@@ -1,6 +1,6 @@
 # Machine Learning and Types
 
-## Video link : []()
+## Video link : [Machine Learning and Types](https://drive.google.com/file/d/1G5eeRgzuo9MjER7gZ_DEtoNIloL3hZOV/view?usp=sharing)
 
 ## What Is Machine Learning?
 
