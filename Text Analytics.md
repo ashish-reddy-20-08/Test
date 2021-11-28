@@ -92,7 +92,8 @@ plt.xticks(rotation=90)
 sns.countplot(y="Category", data=df)
 ```
 
-![image](https://user-images.githubusercontent.com/63282184/143733576-b4ed5cf6-274d-47ec-8df5-bc65e641038d.png)
+![39726ta2](https://user-images.githubusercontent.com/63282184/143775139-4ee6c76c-221d-4c51-9bc2-2c92650c8d62.jpg)
+
 
 ### Data Cleaning
 
