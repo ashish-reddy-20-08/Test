@@ -150,6 +150,7 @@ for word in words:
 
 ### Wordcloud
 
+![image](https://user-images.githubusercontent.com/63282184/143733715-31efaa95-aa15-4d89-88b0-98f74e742ced.png)
 
 
 ## Conclusion
