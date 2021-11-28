@@ -1,6 +1,6 @@
 # Adaptive Resonance Theory
 
-## Video Link: [Adaptive Resonance Theory]()
+## Video Link: [Adaptive Resonance Theory](https://drive.google.com/file/d/16AGUi3g43E4SgXLh7JXvGJWZi8Hruysl/view?usp=sharing)
 
 ## Adaptive Resonance Theory (ART)
 - Adaptive resonance theory is a type of neural network technique developed by Stephen Grossberg and Gail Carpenter in 1987.
