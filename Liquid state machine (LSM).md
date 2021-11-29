@@ -1,6 +1,6 @@
 # Liquid state machine (LSM)
 
-## Video Link : [Liquid state machine (LSM)]()
+## Video Link : [Liquid state machine (LSM)](https://drive.google.com/file/d/1FclRUi4tSJnpDx76CG0fERxPGrmuJzHV/view?usp=sharing)
 
 - A liquid state machine (LSM) is a type of reservoir computer that uses a spiking neural network. An LSM consists of a large collection of units (called nodes, or neurons). Each node receives time varying input from external sources (the inputs) as well as from other nodes. 
 - Nodes are randomly connected to each other. The recurrent nature of the connections turns the time varying input into a spatio-temporal pattern of activations in the network nodes. The spatio-temporal patterns of activation are read out by linear discriminant units.
