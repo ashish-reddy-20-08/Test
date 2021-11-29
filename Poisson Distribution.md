@@ -65,6 +65,5 @@ There are many applications of the Poisson distribution in many fields -
 4. The number of jumps in a stock price in a given time interval may be modelled as a Poisson Distribution.
 5. We can model the number of typographical errors found in a book as a Poisson Distribution.
 
-#### In the notebook, we have worked on some real life examples (observing cars in a highway and counting errors of a skilled typist) of Poisson Distribution. From the problem statement we have found λ (expected value) first and then calculated the probability of the stated random event.
 
 
