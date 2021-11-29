@@ -1,6 +1,6 @@
 # Kernel Ridge Regression
 
-## Video Link : [Kernel Ridge Regression]()
+## Video Link : [Kernel Ridge Regression](https://drive.google.com/file/d/1MNZ1s46Ru3wdlaV7dBH4wUKyvriJv7m4/view?usp=sharing)
 
 Kernel ridge regression is a non-parametric form of ridge regression. The aim is to learn a function in the space induced by the respective kernel k by minimizing a squared loss with a squared norm regularization term.
 
