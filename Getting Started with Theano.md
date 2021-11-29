@@ -1,6 +1,6 @@
 # Getting Started with Theano
 
-## Video link : [Getting Started with Theano]()
+## Video link : [Getting Started with Theano](https://drive.google.com/file/d/1rRmsx1CV77ed3Y1eH8OTuNvRQowVWIbQ/view?usp=sharing)
 
 - The Machine Learning model development requires lot of mathematical computations. These generally require arithmetic computations especially large matrices of multiple dimensions. These days we use Neural Networks rather than the traditional statistical techniques for developing Machine Learning applications. The Neural Networks need to be trained over a huge amount of data. The training is done in batches of data of reasonable size. 
 - Thus, the learning process is iterative. Thus, if the computations are not done efficiently, training the network can take several hours or even days. Thus, the optimization of the executable code is highly desired. And that is what exactly Theano provides.
