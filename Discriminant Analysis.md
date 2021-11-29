@@ -51,6 +51,5 @@ With multiple discriminant analysis, the goal is to define discriminant function
 
 - Discriminant analysis can be closely compared to regression analysis for the ways in which it identifies the degree to which objects adhere to the specifications of certain groups.
 - Discriminant analysis is also commonly used by marketers to develop perceptual maps.
-- 
 
 
