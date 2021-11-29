@@ -1,6 +1,6 @@
 # Ordinary Least Squares
 
-## Video Link : [Ordinary Least Squares]()
+## Video Link : [Ordinary Least Squares](https://drive.google.com/file/d/1yIvVCbY_Q5sZE4m8HLSpwU4zD4KtZsSC/view?usp=sharing)
 
 
 - In statistics, ordinary least squares (OLS) is a type of linear least squares method for estimating the unknown parameters in a linear regression model. OLS chooses the parameters of a linear function of a set of explanatory variables by the principle of least squares: minimizing the sum of the squares of the differences between the observed dependent variable (values of the variable being observed) in the given dataset and those predicted by the linear function of the independent variable.
