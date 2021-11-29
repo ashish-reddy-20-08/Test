@@ -50,7 +50,7 @@ The gamma decompresssion and re-compression rack up quite a large computation co
 
 ![image](https://user-images.githubusercontent.com/63282184/143798148-b169b752-6e83-4be6-b45c-fccde5ac7bb9.png)
 
-![Uploading image.png…]()
+
 
 As you can see, the results are not bad at all. They tend to be a little darker, especially through the red mid-range values, but arguably just as good in most practical respects.
 
