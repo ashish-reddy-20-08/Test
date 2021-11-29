@@ -1,6 +1,6 @@
 # Color to Gray Scale Image using Numpy
 
-## Audio Link : [Color to Gray Scale Image using Numpy]()
+## Audio Link : [Color to Gray Scale Image using Numpy](https://drive.google.com/file/d/1zdJkGPpewTE9-3QB0gsSaiRtitqcbW1S/view?usp=sharing)
 
 The below  code we're working from loads jpeg images for an autoencoder to use as inputs. This is accomplished with using Pillow and Numpy:
 ```
