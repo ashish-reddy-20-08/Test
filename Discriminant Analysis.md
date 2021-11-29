@@ -6,6 +6,9 @@
 - Discriminant analysis is statistical technique used to classify observations into non-overlapping groups, based on scores on one or more quantitative predictor variables.
 - For example, a doctor could perform a discriminant analysis to identify patients at high or low risk for stroke. The analysis might classify patients into high- or low-risk groups, based on personal attributes (e.g., chololesterol level, body mass) and/or lifestyle behaviors (e.g., minutes of exercise per week, packs of cigarettes per day).
 
+![download](https://user-images.githubusercontent.com/63282184/143848907-0e7e0867-8e34-4dd1-84d1-6510143dd999.png)
+
+
 ## Two-Group Discriminant Analysis
 A common research problem involves classifying observations into one of two groups, based on two or more quantitative, predictor variables.
 
