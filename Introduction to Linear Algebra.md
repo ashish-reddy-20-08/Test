@@ -1,6 +1,6 @@
 # Introduction to Linear Algebra
 
-## Video Link: [Introduction to Linear Algebra]()
+## Video Link: [Introduction to Linear Algebra](https://drive.google.com/file/d/1BAejPFAYqeD67a45d56FTR8xE03OQrho/view?usp=sharing)
 
 - Linear algebra is a branch of mathematics, but the truth of it is that linear algebra is the mathematics of data. Matrices and vectors are the language of data.
 
