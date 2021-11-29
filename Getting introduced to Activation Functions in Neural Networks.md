@@ -1,6 +1,6 @@
 # Getting introduced to Activation Functions in Neural Networks
 
-## Audio Link : [Getting introduced to Activation Functions in Neural Networks]()
+## Audio Link : [Getting introduced to Activation Functions in Neural Networks](https://drive.google.com/file/d/1_Cn-Ftq7wViw6J6GEBvPcRQ-vaocyJQ2/view?usp=sharing)
 
 The segregation plays a key role in helping a neural network properly function, ensuring that it learns from the useful information rather than get stuck analyzing the not-useful part. 
 
@@ -46,6 +46,7 @@ This function takes any real value as input and outputs values in the range of 0
 
 The larger the input (more positive), the closer the output value will be to 1.0, whereas the smaller the input (more negative), the closer the output will be to 0.0, as shown below.
 
+![image](https://user-images.githubusercontent.com/63282184/143802894-96cbc9b3-6bdb-4dd0-9c73-054609334193.png)
 
 
 ## Tanh Function (Hyperbolic Tangent)
