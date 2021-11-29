@@ -1,6 +1,6 @@
 # Word Embeddings
 
-## Video Link : [Word Embeddings]()
+## Video Link : [Word Embeddings](https://drive.google.com/file/d/1FAmYUndjFK-NRrHsznwI1XJiG3r43KZO/view?usp=sharing)
 
 ## What Are Word Embeddings?
 
