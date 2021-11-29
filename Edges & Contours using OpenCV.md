@@ -1,6 +1,6 @@
 # Edges & Contours using OpenCV
 
-## Video Link : [Edges & Contours using OpenCV]()
+## Video Link : [Edges & Contours using OpenCV](https://drive.google.com/file/d/1W6a9Ln1y-qml3Xjpy44DVi5ws_jIVgA_/view?usp=sharing)
 
 - Contour detection is the process of joining all the continuous points along the boundary having same color intensity. Contour detection is a useful method for shape analysis in object detection and recognition. Whereas edge detection is the process of finding the boundaries/edges in images. But then the question is how is contour detection different from edge detection as both of them are ultimately used for determining the shape of an object.
 
