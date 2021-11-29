@@ -1,6 +1,6 @@
 # GRU (Gated recurrent unit)
 
-## Video link : [GRU (Gated recurrent unit)]()
+## Video link : [GRU (Gated recurrent unit)](https://drive.google.com/file/d/13NkXibBa3yz-AVYzPeu2ysXDhuP58_4J/view?usp=sharing)
 
  Introduced by Cho, et al. in 2014, GRU (Gated Recurrent Unit) aims to solve the vanishing gradient problem which comes with a standard recurrent neural network. GRU can also be considered as a variation on the LSTM because both are designed similarly and, in some cases, produce equally excellent results.
  
