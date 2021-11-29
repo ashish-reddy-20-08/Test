@@ -1,6 +1,6 @@
 # Step Wise Regression
 
-## Video Link : [Step Wise Regression]()
+## Video Link : [Step Wise Regression](https://drive.google.com/file/d/1l92XxIkE4wRn7egWZMo-xINhkA2_GrCa/view?usp=sharing)
 
 ## What Is Stepwise Regression?
 Stepwise regression is the step-by-step iterative construction of a regression model that involves the selection of independent variables to be used in a final model. It involves adding or removing potential explanatory variables in succession and testing for statistical significance after each iteration.
@@ -15,6 +15,8 @@ Stepwise regression is the step-by-step iterative construction of a regression m
 2. Backward elimination starts with a set of independent variables, deleting one at a time, then testing to see if the removed variable is statistically significant.
 
 3. Bidirectional elimination is a combination of the first two methods that test which variables should be included or excluded.
+
+![image](https://user-images.githubusercontent.com/63282184/143803834-afe4672f-7233-4000-91e4-f2d96e9ee2cd.png)
 
 
 ## Example
