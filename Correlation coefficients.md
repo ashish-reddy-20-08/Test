@@ -1,6 +1,6 @@
 # Correlation coefficients
 
-## Video Link: [Correlation coefficients]()
+## Video Link: [Correlation coefficients](https://drive.google.com/file/d/1yevQ93VMw5stNQyNH_DBgLMrQSvKfZEH/view?usp=sharing)
 
 ## What Is the Correlation Coefficient?
 - The correlation coefficient is a statistical measure of the strength of the relationship between the relative movements of two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the correlation measurement. 
