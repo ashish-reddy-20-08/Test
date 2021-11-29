@@ -1,6 +1,6 @@
 # Elastic Net Regression
 
-## Video link: [Elastic Net Regression]()
+## Video link: [Elastic Net Regression](https://drive.google.com/file/d/1D2J1qMWoAgVYKl21c9nFb1aXtOPKI7w9/view?usp=sharing)
 
 - Regression is a modeling task that involves predicting a numeric value given an input.
 
