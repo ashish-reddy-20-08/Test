@@ -1,6 +1,6 @@
 # Mathematics behind ML Algorithms
 
-## Video Link : [Mathematics behind ML Algorithms]()
+## Video Link : [Mathematics behind ML Algorithms](https://drive.google.com/file/d/1yl0y9GAPIRwIvTWMcG7SL3AyvIkUaokP/view?usp=sharing)
 
 - Machine learning applications provide analytics and insights gleaned from available data which contribute to actionable decision-making in businesses. Since machine learning revolves around studying and implementing algorithms, it is important to bolster your mathematical skills. 
 - It helps in eliminating uncertainty and predicting data values accurately where complex data parameters and features are involved. It also aids us in better understanding the Bias-Variance trade-off. 
@@ -38,4 +38,4 @@
 
 ## Conclusion 
 
-The topics such as calculus, statistics, probability and linear algebra are the key concepts for ML. 
+The topics such as calculus, analytical geometry, matrix decompositions,statistics, probability and linear algebra are the key concepts for ML. 
