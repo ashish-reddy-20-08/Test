@@ -39,6 +39,8 @@ Similarly, we have TD learning, which can be thought like a weekly or monthly ex
 - Here the value of a state S is getting updated in the next time step (t+1) based on the reward r t+1 observed after the time step t with the expected value of S in time step t+1.
 -  So its the bootstrap of S at time step t using the estimation from time step t+1 while r t+1 is the observed reward (real thing that makes the algorithm grounded) TD target and TD error as shown below are two important components of the equation which are used in many other areas of RL.
 
+![image](https://user-images.githubusercontent.com/63282184/143806718-aba0589d-5032-464e-b952-14d46f542e3f.png)
+
 
 ##  limitations 
 TD is a biased estimation
