@@ -1,6 +1,6 @@
 # Discriminant Analysis
 
-## Video Link : [Discriminant Analysis]()
+## Video Link : [Discriminant Analysis](https://drive.google.com/file/d/19-Xp6uAkMIRCzry8MqaMvmeytLYhqeDM/view?usp=sharing)
 
 
 - Discriminant analysis is statistical technique used to classify observations into non-overlapping groups, based on scores on one or more quantitative predictor variables.
