@@ -1,6 +1,6 @@
 # Bayesian Ridge
 
-## Video Link : [Bayesian Ridge]()
+## Video Link : [Bayesian Ridge](https://drive.google.com/file/d/1nr1H52gGTs2pTQcvW2zSHExcjtNXbSOd/view?usp=sharing)
 
 
 
