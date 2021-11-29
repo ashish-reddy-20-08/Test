@@ -1,6 +1,6 @@
 # Temporal Difference Learning
 
-## Video Link : [Temporal Difference Learning]()
+## Video Link : [Temporal Difference Learning](https://drive.google.com/file/d/12QWOrnVWdrk4cMGZMa-4YMC7uF5-cNcK/view?usp=sharing)
 
 - Temporal difference (TD) learning is an approach to learning how to predict a quantity that depends on future values of a given signal. The name TD derives from its use of changes, or differences, in predictions over successive time steps to drive the learning process. 
 - The prediction at any given time step is updated to bring it closer to the prediction of the same quantity at the next time step. 
@@ -44,6 +44,7 @@ Similarly, we have TD learning, which can be thought like a weekly or monthly ex
 
 ##  limitations 
 TD is a biased estimation
+
 TD is more sensitive to the initial value
 
 ## Conclusion and advantages :
