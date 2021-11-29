@@ -1,6 +1,6 @@
 # Poisson Distribution
 
-## Video Link : [Poisson Distribution]()
+## Video Link : [Poisson Distribution](https://drive.google.com/file/d/1g8sahWC5HFbbCUrmNjpPnWIYul_1OMkC/view?usp=sharing)
 
 - In probability theory and statistics, the Poisson distribution (/ˈpwɑːsɒn/; French pronunciation: ​[pwasɔ̃]), named after French mathematician Siméon Denis Poisson, is a discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time or space if these events occur with a known constant mean rate and independently of the time since the last event.
 -  The Poisson distribution can also be used for the number of events in other specified intervals such as distance, area or volume.
