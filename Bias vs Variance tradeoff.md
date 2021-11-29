@@ -1,6 +1,6 @@
 # Bias vs Variance tradeoff
 
-## Video Link : [Bias vs Variance tradeoff]()
+## Video Link : [Bias vs Variance tradeoff](https://drive.google.com/file/d/1UiX4XKyPBvo2UaZL2bZWwxErG1k-ln--/view?usp=sharing)
 
 ## What is Bias?
 The bias is known as the difference between the prediction of the values by the ML model and the correct value. 
