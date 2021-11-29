@@ -1,6 +1,6 @@
 # Statistics, Probability and Inference
 
-## Video link: [Statistics, Probability and Inference]()
+## Video link: [Statistics, Probability and Inference](https://drive.google.com/file/d/1L7N_CgGvNoLCN9c5UqzZUTFNGKbbjhkP/view?usp=sharing)
 
 ## Importance of Statistics for Data Science
 
