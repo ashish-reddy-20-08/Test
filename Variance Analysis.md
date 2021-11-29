@@ -1,6 +1,6 @@
 # Variance Analysis
 
-## Video Link : [Variance Analysis]()
+## Video Link : [Variance Analysis](https://drive.google.com/file/d/1o8xeGpkuYiNrhXv-_-_5tZwcr0OhWfvU/view?usp=sharing)
 
 
 Variance analysis can be summarized as an analysis of the difference between planned and actual numbers. The sum of all variances gives a picture of the overall over-performance or under-performance for a particular reporting period. For each item, companies assess their favorability by comparing actual costs to standard costs in the industry.
