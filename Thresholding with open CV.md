@@ -1,6 +1,6 @@
 # Thresholding with open CV
 
-## Video Link : [Thresholding with open CV]()
+## Video Link : [Thresholding with open CV](https://drive.google.com/file/d/1xJwjJ14mooqOw_yT794ZGFa1ks2jpHLT/view?usp=sharing)
 
 
 - Thresholding is a technique in OpenCV, which is the assignment of pixel values in relation to the threshold value provided. In thresholding, each pixel value is compared with the threshold value. If the pixel value is smaller than the threshold, it is set to 0, otherwise, it is set to a maximum value (generally 255). 
@@ -103,4 +103,4 @@ if cv2.waitKey(0) & 0xff == 27:
 - Video surveillance.
 
 ## Conclusion
-Therefore, in this tutorial we used three thresholding techniques i.e a) Simple thresholding, b) Otsu's thresholding, c) Adaptive thresholding. Thresholding, as shown above, allows you to isolate specific objects in an image, which can be useful in a variety of situations. Thresholding is just one of many traditional image processing techniques; others include clustering, edge detection, and region expanding, to mention a few.
+Therefore we got clear idea on the thresholding topic. Thresholding, as shown above, allows you to isolate specific objects in an image, which can be useful in a variety of situations. Thresholding is just one of many traditional image processing techniques; others include clustering, edge detection, and region expanding, to mention a few.
