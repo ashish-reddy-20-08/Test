@@ -1,6 +1,6 @@
 # Text Analytics
 
-## Video Link: [Text Analytics]()
+## Video Link: [Text Analytics](https://drive.google.com/file/d/1Y-f82V69eyB5QBzs8lnZ_yNzvwYJkDPb/view?usp=sharing)
 
 ## What is Text Analytics?
 
