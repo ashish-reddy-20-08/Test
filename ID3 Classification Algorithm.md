@@ -30,6 +30,8 @@ Now, we have to repeat same procedure for the data with rows consist of Outlook 
 
 Here, when Outlook = Sunny and Humidity = High, it is a pure class of category "no". And When Outlook = Sunny and Humidity = Normal, it is again a pure class of category "yes". Therefore, we don't need to do further calculations.
 
+![image](https://user-images.githubusercontent.com/63282184/143804401-a2f3fc57-a9dc-4a15-a71b-b92dc001d38a.png)
+
 
 Here, when Outlook = Rain and Wind = Strong, it is a pure class of category "no". And When Outlook = Rain and Wind = Weak, it is again a pure class of category "yes".
 And this is our final desired tree for the given dataset.
