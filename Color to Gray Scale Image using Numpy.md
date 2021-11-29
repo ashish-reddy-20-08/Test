@@ -54,3 +54,10 @@ The gamma decompresssion and re-compression rack up quite a large computation co
 
 As you can see, the results are not bad at all. They tend to be a little darker, especially through the red mid-range values, but arguably just as good in most practical respects.
 
+## Advantages of using Numpy
+
+- Multi-dimensional Slicing
+- Broadcasting Functionality
+- Processing Speed
+- Memory Footprint
+- Many Convenience Methods
