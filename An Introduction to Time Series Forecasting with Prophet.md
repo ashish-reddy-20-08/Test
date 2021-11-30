@@ -1,6 +1,6 @@
 # An Introduction to Time Series Forecasting with Prophet
 
-## Video Link : [An Introduction to Time Series Forecasting with Prophet]()
+## Video Link : [An Introduction to Time Series Forecasting with Prophet](https://drive.google.com/file/d/1u_zNJ1jwI12atNt3fDaHyjmAwVbrpwn9/view?usp=sharing)
 
 ## Prophet Forecasting Library
 Prophet, or “Facebook Prophet,” is an open-source library for univariate (one variable) time series forecasting developed by Facebook.
