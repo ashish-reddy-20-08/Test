@@ -90,6 +90,13 @@ Below are some of the common exceptions raised while dealing with pickle module 
 
 - EOFError: In case the end of file is detected, this exception is raised.
 
+## Pros:
+
+- Comes handy to save complicated data.
+
+- Easy to use, lighter and doesn’t require several lines of code.
+
+- The pickled file generated is not easily readable and thus provide some security.
 
 ## Cons:
 
