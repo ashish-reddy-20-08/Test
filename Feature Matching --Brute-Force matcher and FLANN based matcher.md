@@ -1,6 +1,6 @@
 # Feature Matching --Brute-Force matcher and FLANN based matcher
 
-## Video Link : [Feature Matching --Brute-Force matcher and FLANN based matcher]()
+## Video Link : [Feature Matching --Brute-Force matcher and FLANN based matcher](https://drive.google.com/file/d/183_V441cWnMuQVxePGFOBpBTuq8-oiud/view?usp=sharing)
 
 ## Basics of Brute-Force Matcher
 - Brute-Force matcher is simple. It takes the descriptor of one feature in first set and is matched with all other features in second set using some distance calculation. And the closest one is returned.
@@ -124,5 +124,5 @@ Output
 
 The advantage of this approach is that you don't need any domain-specific knowledge to use one of these algorithms. A brute-force algorithm tends to use the simplest possible approach to solving the problem. The disadvantage is that a brute-force approach works well only for a small number of nodes
 
-FLANN stands for Fast Library for Approximate Nearest Neighbors. It contains a collection of algorithms optimized for fast nearest neighbor search in large datasets and for high dimensional features. It works more faster than BFMatcher for large datasets. We will see the second example with FLANN based matcher.
+FLANN stands for Fast Library for Approximate Nearest Neighbors. It contains a collection of algorithms optimized for fast nearest neighbor search in large datasets and for high dimensional features. It works more faster than BFMatcher for large datasets.
 
