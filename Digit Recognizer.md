@@ -2,6 +2,7 @@
 
 ## Video Link: [Digit Recognizer]()
 
+### Digits Recognizer using CNN
 
 ## MNIST dataset:
 MNIST stands for Modified National Institute of Standards and Technology Database.It is a dataset provided by keras API.<br>
