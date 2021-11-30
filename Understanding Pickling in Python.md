@@ -1,6 +1,6 @@
 # Understanding Pickling in Python
 
-## Video Link : [Understanding Pickling in Python](https://drive.google.com/file/d/1K56NB5ujoxvgu718r462ILshnHVcL0q5/view?usp=sharing)
+## Video Link : [Understanding Pickling in Python](https://drive.google.com/file/d/1T3vKLmvyhdUbGf9O3R8U5Kz2pxox2LDx/view?usp=sharing)
 
 Python pickle module is used for serializing and de-serializing a Python object structure. Any object in Python can be pickled so that it can be saved on disk. What pickle does is that it “serializes” the object first before writing it to file. Pickling is a way to convert a python object (list, dict, etc.) into a character stream. The idea is that this character stream contains all the information necessary to reconstruct the object in another python script.
 
