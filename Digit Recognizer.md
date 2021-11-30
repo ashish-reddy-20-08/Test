@@ -1,6 +1,6 @@
 # Digit Recognizer
 
-## Video Link: [Digit Recognizer]()
+## Video Link: [Digit Recognizer](https://drive.google.com/file/d/13mxttcy7aKQ8VHZ9XgLLYbfG6ahDTmzB/view?usp=sharing)
 
 ### Digits Recognizer using CNN
 
