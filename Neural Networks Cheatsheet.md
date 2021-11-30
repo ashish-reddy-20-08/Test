@@ -1,6 +1,6 @@
 # Neural Networks Cheatsheet
 
-## Video Link : [Neural Networks Cheatsheet]()
+## Video Link : [Neural Networks Cheatsheet](https://drive.google.com/file/d/18fKTNqHwu1bbjnugkPRF2SjYmTJxQ03y/view?usp=sharing)
 
 ## Neural Networks
 Neural networks are a class of models that are built with layers. Commonly used types of neural networks include convolutional and recurrent neural networks.
