@@ -1,6 +1,6 @@
 # AutoRegressive Integrated Moving Average "ARIMA"
 
-## Video Link : [AutoRegressive Integrated Moving Average "ARIMA"]()
+## Video Link : [AutoRegressive Integrated Moving Average "ARIMA"](https://drive.google.com/file/d/1fA3Hsam2Amp9MQypH5lmyjPajkIsUaBy/view?usp=sharing)
 
 ## What Is an Autoregressive Integrated Moving Average (ARIMA)?
 An autoregressive integrated moving average, or ARIMA, is a statistical analysis model that uses time series data to either better understand the data set or to predict future trends. 
